@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"title": "Vino",
+		"description": "Un vino mendocino",
+		"price": 37,
+		"thumbnail": "www.imgur.com/imagen-del-vino-mendocino",
+		"code": "123ABC123",
+		"stock": 999
+	},
+	{
+		"id": 2,
+		"title": "Cerveza",
+		"description": "Una cerveza Belga",
+		"price": 4,
+		"thumbnail": "www.imgur.com/imagen-de-la-cerveza-belga",
+		"code": "123EFG123",
+		"stock": 399
+	},
+	{
+		"id": 3,
+		"title": "Pan",
+		"description": "Pan de mesa lacteado",
+		"price": 17,
+		"thumbnail": "www.imgur.com/imagen-del-pan",
+		"code": "123EFG124",
+		"stock": 399
+	},
+	{
+		"id": 4,
+		"title": "Naranja",
+		"description": "Un kg de naranja dulce",
+		"price": 7,
+		"thumbnail": "www.imgur.com/naranjas-de-granja",
+		"code": "123EFG125",
+		"stock": 399
+	},
+	{
+		"id": 5,
+		"title": "Arroz",
+		"description": "Una arroz que no se pasa ni se pega",
+		"price": 4,
+		"thumbnail": "www.imgur.com/imagen-arroz",
+		"code": "123EFG126",
+		"stock": 399
+	},
+	{
+		"id": 6,
+		"title": "Sopa instantanea",
+		"description": "Una sopa instantanea de tomates",
+		"price": 4,
+		"thumbnail": "www.imgur.com/imagen-sopa-de-tomates",
+		"code": "123EFG127",
+		"stock": 399
+	}
+]
